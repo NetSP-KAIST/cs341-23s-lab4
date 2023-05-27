@@ -4,7 +4,7 @@
 In PA 4, you will assume the role of a strong Man-in-the-middle (MITM) adversary in the Ethereum network and study how Ethereum nodes communicate with one another.
 
 This github repo **ONLY** contains the pcap file and secret keys of Ethereum clients.
-Full documentation is available here: ""
+Full documentation is available here: https://docs.google.com/document/d/1055Qyml7IUcjCjpykkD-Tx3XAhdMeM2SEzgbPVPzHvg/edit?usp=sharing
 
 ## Secret Keys
 You may use `decode_hex` or `encode_hex` in `rlp.utils`.
